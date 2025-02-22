@@ -1,1 +1,7 @@
-Este repositorio contiene un conpendio de tareas de la materia "Aprendizaje Automático Aplicado", la cual forma parte del programa de la maestría en ciencia de datos de la Universidad de Sonora
+![](https://mcd.unison.mx/wp-content/uploads/2020/02/400dpiLogoCropped.png)
+
+
+## Aprendizaje Automático Aplicado - Maestría en Ciencia de Datos UNISON
+
+
+Este repositorio contiene un compendio de tareas, principalmente en forma de libretas Jupyter (.ipynb), correspondientes a la materia "Aprendizaje Automático Aplicado". Esta asignatura forma parte del programa de la Maestría en Ciencia de Datos de la Universidad de Sonora.
