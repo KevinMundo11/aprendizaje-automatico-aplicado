@@ -1,4 +1,4 @@
-![](https://mcd.unison.mx/wp-content/uploads/2020/02/400dpiLogoCropped.png)
+![](https://mcd.unison.mx/wp-content/themes/awaken/img/logo_mcd.png)
 
 
 ## Aprendizaje Automático Aplicado - Maestría en Ciencia de Datos UNISON
